@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657191174233",
+    "project_id": "tuefingoapp",
+    "storage_bucket": "tuefingoapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657191174233:android:6aff444a1ff28de04df148",
+        "android_client_info": {
+          "package_name": "com.example.turf_booking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQJulBkFnxu7oTyByj6xOwOKc25KtIM6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
